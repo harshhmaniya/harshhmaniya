@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **AI Agents**
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **TensorFlow, Transformers, Langchain**
+- 💬 Ask me about **Transformers, Langchain**
 
 - 📫 How to reach me **harshmaniya1999@gmail.com**
 
